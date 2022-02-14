@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="youtube:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2036595e-c565-46cf-9f8d-2d8296363411" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mchange_c3p0_0_9_5_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mchange_mchange_commons_java_0_2_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_4_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_fastinfoset_FastInfoset_1_2_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jstl_jstl_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_11_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__opensymphony_sitemesh_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_c3p0_5_6_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_6_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_entitymanager_5_6_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_2_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_1_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_weld_servlet_weld_servlet_2_4_8_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_annotations_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_1_4_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_common_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jvnet_staxex_stax_ex_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/youtube.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube/.idea/libraries/Maven__com_google_code_gson_gson_2_8_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_4_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube/.idea/libraries/Maven__com_squareup_okio_okio_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_11_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube/.idea/libraries/Maven__org_hibernate_hibernate_c3p0_5_5_8_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube/.idea/libraries/Maven__org_hibernate_hibernate_core_5_6_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube/.idea/libraries/Maven__org_hibernate_hibernate_entitymanager_5_6_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube/.idea/libraries/Maven__org_jboss_weld_servlet_weld_servlet_2_4_8_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube/.idea/libraries/Maven__org_jetbrains_annotations_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_1_4_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_common_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube/src/main/java/com/youtube/controllers/dashboard/ChannelManageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube/src/main/webapp/templates/channel/channel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube/src/main/webapp/templates/channel/channelManage/css/channelManage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube/src/main/webapp/views/dashboard/channelManage.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/youtube_war.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/youtube_war.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/youtube_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/youtube_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_fastinfoset_FastInfoset_1_2_16.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_jsr250_api_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_el_el_api_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_enterprise_cdi_api_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_19.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_geronimo_specs_geronimo_jta_1_1_spec_1_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_1_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_2_2_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_jpamodelgen_5_5_6_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_20_0_GA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_0_0_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_0_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_interceptor_jboss_interceptors_api_1_1_spec_1_0_0_Beta1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jvnet_staxex_stax_ex_1_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/initdatabase" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/youtube/entities/Category.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/youtube/entities/Comment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/youtube/entities/History.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/youtube/entities/RComment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/youtube/entities/RVideo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/youtube/entities/Subscribe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/youtube/entities/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/youtube/entities/Video.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/youtube/entities/generator/SchemaGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/hibernate-mysql.cfg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/beans.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/decorators.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/youtube/entities/Category.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/youtube/entities/Category_.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/youtube/entities/Comment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/youtube/entities/Comment_.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/youtube/entities/History.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/youtube/entities/History_.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/youtube/entities/RComment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/youtube/entities/RComment_.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/youtube/entities/RVideo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/youtube/entities/RVideo_.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/youtube/entities/Subscribe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/youtube/entities/Subscribe_.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/youtube/entities/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/youtube/entities/User_.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/youtube/entities/Video.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/youtube/entities/Video_.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/youtube/entities/generator/SchemaGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hibernate-mysql.cfg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/annotations/com/youtube/entities/Category_.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/annotations/com/youtube/entities/Comment_.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/annotations/com/youtube/entities/History_.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/annotations/com/youtube/entities/RComment_.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/annotations/com/youtube/entities/RVideo_.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/annotations/com/youtube/entities/Subscribe_.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/annotations/com/youtube/entities/User_.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/annotations/com/youtube/entities/Video_.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/.idea/artifacts/youtube_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/.idea/artifacts/youtube_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_11_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/.idea/libraries/Maven__org_hibernate_hibernate_c3p0_5_4_32_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/.idea/libraries/Maven__org_hibernate_hibernate_core_5_5_7_final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/.idea/libraries/Maven__org_hibernate_hibernate_entitymanager_5_5_7_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/.idea/libraries/Maven__org_javassist_javassist_3_27_0_GA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/.idea/sqldialects.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/src/main/java/com/youtube/controllers/dashboard/ChannelController.java" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/src/main/java/com/youtube/controllers/dashboard/ChannelController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/src/main/java/com/youtube/controllers/dashboard/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/src/main/java/com/youtube/controllers/dashboard/HomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/src/main/java/com/youtube/controllers/dashboard/apis/ComInteractAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/src/main/java/com/youtube/controllers/dashboard/apis/ComInteractAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/src/main/java/com/youtube/controllers/dashboard/apis/CommentAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/src/main/java/com/youtube/controllers/dashboard/apis/CommentAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/src/main/java/com/youtube/controllers/dashboard/apis/SubscribeAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/src/main/java/com/youtube/controllers/dashboard/apis/SubscribeAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/src/main/java/com/youtube/controllers/dashboard/apis/UserAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/src/main/java/com/youtube/controllers/dashboard/apis/UserAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/src/main/java/com/youtube/controllers/dashboard/apis/VidInteractAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/src/main/java/com/youtube/controllers/dashboard/apis/VidInteractAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/src/main/java/com/youtube/controllers/dashboard/apis/VideoAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/src/main/java/com/youtube/controllers/dashboard/apis/VideoAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/src/main/java/com/youtube/controllers/login/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/src/main/java/com/youtube/controllers/login/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/src/main/java/com/youtube/daos/impls/AbstractDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/src/main/java/com/youtube/daos/impls/AbstractDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/src/main/java/com/youtube/daos/impls/VideoDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/src/main/java/com/youtube/daos/impls/VideoDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/src/main/java/com/youtube/daos/utils/InitData.java" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/src/main/java/com/youtube/daos/utils/InitData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/src/main/java/com/youtube/entities/Video.java" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/src/main/java/com/youtube/entities/Video.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/src/main/java/com/youtube/services/ICategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/src/main/java/com/youtube/services/ICategoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/src/main/java/com/youtube/services/IVideoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/src/main/java/com/youtube/services/IVideoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/src/main/java/com/youtube/services/impls/CategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/src/main/java/com/youtube/services/impls/CategoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/src/main/java/com/youtube/services/impls/VideoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/src/main/java/com/youtube/services/impls/VideoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/src/main/java/com/youtube/utils/PrintWriterUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/src/main/java/com/youtube/utils/PrintWriterUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/src/main/resources/META-INF/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/src/main/resources/META-INF/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/src/main/webapp/common/dashboard/header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/src/main/webapp/common/dashboard/header.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/src/main/webapp/common/taglibs.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/src/main/webapp/common/taglibs.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/src/main/webapp/decorators/dashboard/dashboard.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/src/main/webapp/decorators/dashboard/dashboard.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/src/main/webapp/templates/channel/css/channel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/src/main/webapp/templates/channel/css/channel_responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/src/main/webapp/templates/channel/css/channel_responsive.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/src/main/webapp/templates/header/css/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/src/main/webapp/templates/header/header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/src/main/webapp/templates/history/css/history.css" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/src/main/webapp/templates/history/css/history.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/src/main/webapp/templates/home/css/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/src/main/webapp/templates/home/css/home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/src/main/webapp/templates/home/css/home_responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/src/main/webapp/templates/home/css/home_responsive.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/src/main/webapp/templates/watch/css/watch.css" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/src/main/webapp/templates/watch/css/watch.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/src/main/webapp/templates/watch/css/watch_responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/src/main/webapp/templates/watch/css/watch_responsive.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/src/main/webapp/views/dashboard/channel.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/src/main/webapp/views/dashboard/channel.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/src/main/webapp/views/dashboard/watch.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/src/main/webapp/views/dashboard/watch.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/target/classes/META-INF/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/target/classes/META-INF/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/target/classes/com/youtube/controllers/dashboard/ChannelController.class" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/target/classes/com/youtube/controllers/dashboard/ChannelController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/target/classes/com/youtube/controllers/dashboard/HomeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/target/classes/com/youtube/controllers/dashboard/HomeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/target/classes/com/youtube/controllers/dashboard/apis/ComInteractAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/target/classes/com/youtube/controllers/dashboard/apis/ComInteractAPI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/target/classes/com/youtube/controllers/dashboard/apis/CommentAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/target/classes/com/youtube/controllers/dashboard/apis/CommentAPI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/target/classes/com/youtube/controllers/dashboard/apis/SubscribeAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/target/classes/com/youtube/controllers/dashboard/apis/SubscribeAPI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/target/classes/com/youtube/controllers/dashboard/apis/UserAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/target/classes/com/youtube/controllers/dashboard/apis/UserAPI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/target/classes/com/youtube/controllers/dashboard/apis/VidInteractAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/target/classes/com/youtube/controllers/dashboard/apis/VidInteractAPI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/target/classes/com/youtube/controllers/dashboard/apis/VideoAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/target/classes/com/youtube/controllers/dashboard/apis/VideoAPI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/target/classes/com/youtube/controllers/login/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/target/classes/com/youtube/controllers/login/LoginController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/target/classes/com/youtube/daos/impls/AbstractDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/target/classes/com/youtube/daos/impls/AbstractDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/target/classes/com/youtube/daos/utils/InitData.class" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/target/classes/com/youtube/daos/utils/InitData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/target/classes/com/youtube/services/impls/VideoService.class" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/target/classes/com/youtube/services/impls/VideoService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/target/classes/com/youtube/utils/PrintWriterUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/target/classes/com/youtube/utils/PrintWriterUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/target/youtube-1.0-SNAPSHOT/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/target/youtube-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/target/youtube-1.0-SNAPSHOT/WEB-INF/classes/META-INF/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/target/youtube-1.0-SNAPSHOT/WEB-INF/classes/META-INF/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/target/youtube-1.0-SNAPSHOT/WEB-INF/classes/com/youtube/controllers/dashboard/ChannelController.class" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/target/youtube-1.0-SNAPSHOT/WEB-INF/classes/com/youtube/controllers/dashboard/ChannelController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/target/youtube-1.0-SNAPSHOT/WEB-INF/classes/com/youtube/controllers/dashboard/HomeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/target/youtube-1.0-SNAPSHOT/WEB-INF/classes/com/youtube/controllers/dashboard/HomeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/target/youtube-1.0-SNAPSHOT/WEB-INF/classes/com/youtube/controllers/dashboard/apis/ComInteractAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/target/youtube-1.0-SNAPSHOT/WEB-INF/classes/com/youtube/controllers/dashboard/apis/ComInteractAPI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/target/youtube-1.0-SNAPSHOT/WEB-INF/classes/com/youtube/controllers/dashboard/apis/CommentAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/target/youtube-1.0-SNAPSHOT/WEB-INF/classes/com/youtube/controllers/dashboard/apis/CommentAPI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/target/youtube-1.0-SNAPSHOT/WEB-INF/classes/com/youtube/controllers/dashboard/apis/SubscribeAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/target/youtube-1.0-SNAPSHOT/WEB-INF/classes/com/youtube/controllers/dashboard/apis/SubscribeAPI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/target/youtube-1.0-SNAPSHOT/WEB-INF/classes/com/youtube/controllers/dashboard/apis/UserAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/target/youtube-1.0-SNAPSHOT/WEB-INF/classes/com/youtube/controllers/dashboard/apis/UserAPI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/target/youtube-1.0-SNAPSHOT/WEB-INF/classes/com/youtube/controllers/dashboard/apis/VidInteractAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/target/youtube-1.0-SNAPSHOT/WEB-INF/classes/com/youtube/controllers/dashboard/apis/VidInteractAPI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/target/youtube-1.0-SNAPSHOT/WEB-INF/classes/com/youtube/controllers/dashboard/apis/VideoAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/target/youtube-1.0-SNAPSHOT/WEB-INF/classes/com/youtube/controllers/dashboard/apis/VideoAPI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/target/youtube-1.0-SNAPSHOT/WEB-INF/classes/com/youtube/controllers/login/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/target/youtube-1.0-SNAPSHOT/WEB-INF/classes/com/youtube/controllers/login/LoginController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/target/youtube-1.0-SNAPSHOT/WEB-INF/classes/com/youtube/daos/impls/AbstractDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/target/youtube-1.0-SNAPSHOT/WEB-INF/classes/com/youtube/daos/impls/AbstractDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/target/youtube-1.0-SNAPSHOT/WEB-INF/classes/com/youtube/daos/utils/InitData.class" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/target/youtube-1.0-SNAPSHOT/WEB-INF/classes/com/youtube/daos/utils/InitData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/target/youtube-1.0-SNAPSHOT/WEB-INF/classes/com/youtube/services/impls/VideoService.class" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/target/youtube-1.0-SNAPSHOT/WEB-INF/classes/com/youtube/services/impls/VideoService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/target/youtube-1.0-SNAPSHOT/WEB-INF/classes/com/youtube/utils/PrintWriterUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/target/youtube-1.0-SNAPSHOT/WEB-INF/classes/com/youtube/utils/PrintWriterUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/target/youtube-1.0-SNAPSHOT/common/dashboard/header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/target/youtube-1.0-SNAPSHOT/common/dashboard/header.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/target/youtube-1.0-SNAPSHOT/common/taglibs.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/target/youtube-1.0-SNAPSHOT/common/taglibs.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/target/youtube-1.0-SNAPSHOT/decorators/dashboard/dashboard.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/target/youtube-1.0-SNAPSHOT/decorators/dashboard/dashboard.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/target/youtube-1.0-SNAPSHOT/templates/channel/css/channel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/target/youtube-1.0-SNAPSHOT/templates/channel/css/channel_responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/target/youtube-1.0-SNAPSHOT/templates/channel/css/channel_responsive.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/target/youtube-1.0-SNAPSHOT/templates/header/css/header.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/target/youtube-1.0-SNAPSHOT/templates/header/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/target/youtube-1.0-SNAPSHOT/templates/header/header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/target/youtube-1.0-SNAPSHOT/templates/history/css/history.css" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/target/youtube-1.0-SNAPSHOT/templates/history/css/history.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/target/youtube-1.0-SNAPSHOT/templates/home/css/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/target/youtube-1.0-SNAPSHOT/templates/home/css/home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/target/youtube-1.0-SNAPSHOT/templates/home/css/home_responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/target/youtube-1.0-SNAPSHOT/templates/home/css/home_responsive.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/target/youtube-1.0-SNAPSHOT/templates/watch/css/watch.css" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/target/youtube-1.0-SNAPSHOT/templates/watch/css/watch.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/target/youtube-1.0-SNAPSHOT/templates/watch/css/watch_responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/target/youtube-1.0-SNAPSHOT/templates/watch/css/watch_responsive.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/target/youtube-1.0-SNAPSHOT/views/dashboard/channel.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/target/youtube-1.0-SNAPSHOT/views/dashboard/channel.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/target/youtube-1.0-SNAPSHOT/views/dashboard/watch.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/target/youtube-1.0-SNAPSHOT/views/dashboard/watch.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/youtube.iml" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/youtube.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Class" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/youtube" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="JPA Inspector" value="true" />
+        <entry key="JPA Palette" value="true" />
+        <entry key="JPA Structure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="JPA Inspector" value="false" />
+        <entry key="JPA Palette" value="false" />
+        <entry key="JPA Structure" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="21PgOedUYYbfuD7ZYRhC5KnuVbo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/youtube/src/main/webapp/templates/channel/channelManage/css" />
+    <property name="list.type.of.created.stylesheet" value="UNKNOWN" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\youtube\youtube\src\main\webapp\templates\channel\channelManage\css" />
+      <recent name="D:\youtube\youtube\src\main\webapp\views\dashboard" />
+      <recent name="D:\youtube\youtube\src\main\webapp" />
+      <recent name="D:\youtube\youtube" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\youtube\youtube\src\main\webapp\WEB-INF" />
+      <recent name="D:\youtube\youtube\src\main\webapp\templates\watch\css" />
+      <recent name="D:\youtube\youtube\src\main\webapp\templates\history\css" />
+      <recent name="D:\youtube\youtube\src\main\webapp\templates\home\css" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.52">
+    <configuration name="ImportDB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.youtube.daos.utils.ImportDB" />
+      <module name="youtube" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.youtube.daos.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InitScheme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.youtube.daos.utils.InitScheme" />
+      <module name="youtube" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.youtube.daos.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.52" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.52" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="youtube:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="855e38fb-8fc1-4527-8e21-294479b8aa22" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51551" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="youtube:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ImportDB" />
+        <item itemvalue="Application.InitScheme" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2036595e-c565-46cf-9f8d-2d8296363411" name="Changes" comment="" />
+      <created>1637848107535</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637848107535</updated>
+      <workItem from="1637848109434" duration="1969000" />
+      <workItem from="1637852110942" duration="1673000" />
+      <workItem from="1637884332720" duration="2576000" />
+      <workItem from="1637890467101" duration="3287000" />
+      <workItem from="1637895562349" duration="221000" />
+      <workItem from="1637899040101" duration="2697000" />
+      <workItem from="1637926069907" duration="21887000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.hibernate.PropertyValueException" package="org.hibernate" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

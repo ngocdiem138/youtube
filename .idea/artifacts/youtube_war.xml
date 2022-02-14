@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="youtube:war">
+    <output-path>$PROJECT_DIR$/youtube/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>false</exploded>
+        <module>youtube</module>
+        <packaging>war</packaging>
+        <unpackNestedArchives>false</unpackNestedArchives>
+      </options>
+    </properties>
+    <root id="archive" name="youtube-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="youtube:war exploded" />
+    </root>
+  </artifact>
+</component>
