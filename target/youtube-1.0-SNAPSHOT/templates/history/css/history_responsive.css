@@ -1,0 +1,46 @@
+@media only screen and (max-width: 1300px) {
+    #container .main {
+        padding: 0 100px;
+    }
+
+    #container .heading,
+    #container .time {
+        padding-left: 100px;
+    }
+
+    #container .main > a > div {
+        flex-basis: 70%;
+    }
+}
+
+@media only screen and (max-width: 1024px){
+    #container .main {
+        padding: 0 20px;
+    }
+
+    #container .heading,
+    #container .time {
+        padding-left: 20px;
+    }
+
+    .main > a {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 756px){
+    #container .main .more--info {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    .main > a {
+        flex-wrap: wrap;
+    }
+
+    .main > a > img {
+        width: 100%;
+        height: auto;
+    }
+}

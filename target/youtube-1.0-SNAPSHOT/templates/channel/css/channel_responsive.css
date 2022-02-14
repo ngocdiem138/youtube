@@ -1,0 +1,32 @@
+@media only screen and (max-width: 1600px) {
+    #videochanel {
+        padding: 24px 20px 0 20px;
+    }
+}
+
+@media only screen and (max-width: 1300px) {
+    #videochanel > a {
+        flex-basis: 23.6%;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    #videochanel > a {
+        flex-basis: 31.9%;
+        margin: 0 0.7% 20px;
+    }
+}
+
+@media only screen and (max-width: 680px) {
+    #videochanel > a {
+        flex-basis: 48.5%;
+        margin: 0 0.7% 20px;
+    }
+}
+
+@media only screen and (max-width: 520px) {
+    #videochanel > a {
+        flex-basis: 99%;
+        margin: 0 0.7% 20px;
+    }
+}

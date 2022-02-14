@@ -1,0 +1,53 @@
+#container {
+    margin-top: 56px;
+    background-color: #f9f9f9;
+}
+#container > a:hover {
+    opacity:0.8;
+}
+#container .heading,
+#container .time {
+    padding-left: 200px;
+    font-size: 20px;
+}
+
+#container .time {
+    padding-top: 20px;
+}
+
+#container .main {
+    padding: 0 200px;
+}
+
+#container .main > a {
+    margin-top: 20px;
+    display: flex;
+}
+
+#container .main > a > img {
+    width: 246px;
+    height: 138px;
+}
+
+#container .main > a > div {
+    padding: 0 10px;
+    flex-basis: 50%;
+}
+
+#container .main .name {
+    color: #333;
+}
+
+#container .main .username,
+#container .main .more--info {
+    color: #606060;
+    font-size: 90%;
+}
+
+#container .main .more--info {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+}

@@ -1,0 +1,37 @@
+@media only screen and (max-width: 1600px) {
+    .search,
+    #main {
+        padding: 24px 20px 0 20px;
+    }
+}
+
+@media only screen and (max-width: 1300px) {
+    #search > a,
+    #main > a {
+        flex-basis: 23.6%;
+    }
+}
+
+@media only screen and (max-width: 1024px){
+    #search > a,
+    #main > a {
+        flex-basis: 31.9%;
+        margin: 0 0.7% 20px;
+    }
+}
+
+@media only screen and (max-width: 680px){
+    #search > a,
+    #main > a {
+        flex-basis: 48.5%;
+        margin: 0 0.7% 20px;
+    }
+}
+
+@media only screen and (max-width: 520px) {
+    #search > a,
+    #main > a {
+        flex-basis: 99%;
+        margin: 0 0.7% 20px;
+    }
+}

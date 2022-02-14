@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/youtube/youtube.iml" filepath="$PROJECT_DIR$/youtube/youtube.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youtube.iml" filepath="$PROJECT_DIR$/youtube.iml" />
     </modules>
   </component>
 </project>

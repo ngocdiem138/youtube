@@ -1,0 +1,137 @@
+#container {
+    margin-top: 56px;
+}
+
+#userchannel {
+    flex-wrap: wrap;
+    margin: 0 -0.7%;
+}
+
+#userchannel #chanelcoverimage {
+    padding: 30px 30px 0 30px;
+    width: 100%;
+    /*object-fit: cover;*/
+}
+
+
+/* begin aboutchanel */
+#aboutchanel {
+    display: flex;
+    width: calc(100% - 60px);
+    padding: 10px 10px 0 10px;
+    margin: 0 30px 15px;
+    background-color: #e2e2e2;
+    justify-content: space-between;
+}
+
+#userchannel #avtmychanel {
+    display: flex;
+    top: auto;
+    width: 65px;
+    border-radius: 50%;
+    margin-left: 20px;
+}
+
+#aboutchanel div p {
+    margin-left: 100px;
+    margin-top: -60px;
+    font-size: 160%;
+    font-weight: bold;
+
+}
+
+#aboutchanel div span {
+    font-size: 90%;
+    margin-left: 100px;
+    margin-top: -100px;
+}
+
+#btn-subscribe {
+    margin-right: 70px;
+    margin-top: 10px;
+    background-color: #cc0000;
+    border: none;
+    color: #fff;
+    height: 40px;
+    padding: 0 20px;
+    font-size: 14px;
+    border-radius: 5px;
+}
+
+#aboutchanel .subscribed {
+    background-color: #bbb !important;
+    color: #333 !important;
+    font-weight: 600 !important;
+}
+
+/* end aboutchanel */
+
+/* <!-- begin videochanel --> */
+#videochanel {
+    display: flex;
+    flex-wrap: wrap;
+    /*justify-content: space-between;*/
+    padding: 24px 20px 0 20px;
+}
+
+#videochanel > a {
+    flex-basis: 18.6%;
+    margin: 0 0.7% 20px;
+}
+
+#videochanel > a > img {
+    width: 100%;
+}
+
+#videochanel .info {
+    padding: 10px;
+}
+
+#videochanel .info .name {
+    color: #333;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+}
+
+#videochanel .info .user,
+#videochanel .info .moreinfo {
+    color: #606060;
+    font-size: 90%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1;
+}
+
+#videochanel .info .moreinfo {
+    padding-bottom: 20px;
+}
+
+/* <!-- end videochanel --> */
+
+
+/* <!-- begin introducechanel --> */
+#introducechanel {
+    display: block;
+    padding: 20px;
+    background-color: #dbd8d8;
+    border-radius: 3%;
+}
+
+#introducechanel p {
+    margin-bottom: 10px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 100%;
+}
+
+#introducechanel p #namechanel {
+    font-weight: bold;
+}
+
+/* <!-- end introducechanel --> */
+/* End: userchannel */
